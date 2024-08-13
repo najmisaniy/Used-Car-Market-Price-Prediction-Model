@@ -1,6 +1,6 @@
 # Used Car Price Prediction Model
 
-This repository contains a machine learning model designed to predict the prices of used cars based on various features such as make, model, year, mileage, condition, and more. The project utilizes regression techniques to provide accurate price estimations, which can be useful for car dealerships, sellers, and buyers.
+This repository contains a machine learning model designed to predict the prices of used cars based on various features such as make, model, year, mileage, and more. The project utilizes regression techniques to provide accurate price estimations, which can be useful for car dealerships, sellers, and buyers.
 
 ## Key Features:
 - **Data Collection:** Extensive dataset including car specifications, historical prices, and market trends.
